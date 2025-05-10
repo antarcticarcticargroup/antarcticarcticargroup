@@ -30,10 +30,10 @@ enable:
         <div class="p-3">
           <div class="row">
             <div class="col-sm-10">
-              <h5 class="font-weight-bold" style="color: #18c7c7;">Third AAARG! Workshop</h5>
+              <h5 class="font-weight-bold" style="color: #2698ba;">Third AAARG! Workshop</h5>
             </div>
             <div class="col-sm-2 text-left text-sm-right">
-              <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #18c7c7; color: white; border-radius: 5px; padding: 5px 10px;">Grenoble, France</span>
+              <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #2698ba; color: white; border-radius: 5px; padding: 5px 10px;">Grenoble, France</span>
             </div>
           </div>
           <h6 class="font-italic mt-2">May 5–8, 2025</h6>
@@ -63,10 +63,10 @@ enable:
         <div class="p-3">
           <div class="row">
             <div class="col-sm-10">
-              <h5 class="font-weight-bold" style="color: #18c7c7;">Second AAARG! Workshop</h5>
+              <h5 class="font-weight-bold" style="color: #2698ba;">Second AAARG! Workshop</h5>
             </div>
             <div class="col-sm-2 text-left text-sm-right">
-              <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #18c7c7; color: white; border-radius: 5px; padding: 5px 10px;">Boulder, CO, USA</span>
+              <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #2698ba; color: white; border-radius: 5px; padding: 5px 10px;">Boulder, CO, USA</span>
             </div>
           </div>
           <h6 class="font-italic mt-2">June 27–29, 2023</h6>
@@ -96,10 +96,10 @@ enable:
         <div class="p-3">
           <div class="row">
             <div class="col-sm-10">
-              <h5 class="font-weight-bold" style="color: #18c7c7;">First AAARG! Workshop</h5>
+              <h5 class="font-weight-bold" style="color: #2698ba;">First AAARG! Workshop</h5>
             </div>
             <div class="col-sm-2 text-left text-sm-right">
-              <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #18c7c7; color: white; border-radius: 5px; padding: 5px 10px;">Grenoble, France</span>
+              <span class="badge font-weight-bold text-uppercase align-middle" style="background-color: #2698ba; color: white; border-radius: 5px; padding: 5px 10px;">Grenoble, France</span>
             </div>
           </div>
           <h6 class="font-italic mt-2">June 27–28, 2022</h6>
